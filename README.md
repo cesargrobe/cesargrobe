@@ -1,6 +1,6 @@
 # Sobre mim:
 
-- 👋 Olá, sou o Prof. Gerson @cesargrobe
+- 👋 Olá, sou o **Prof. Gerson** @cesargrobe
 - ✉️ Meu e-mail para contato gerson.miranda@escola.pr.gov.br
 
 - 👀 Estou interessado em aprender linguagem de programação.
